@@ -1,0 +1,1 @@
+BETTER_WAY_for_python
